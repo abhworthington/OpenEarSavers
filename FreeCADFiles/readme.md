@@ -1,0 +1,1 @@
+This folder contains all the FreeCAD models (simple as they are) for the earsavers. The last revision (v4 currently) is the recommended one. Earlier versions are presented as evidence of past failures.
