@@ -1,0 +1,7 @@
+The earsavers use 5 total parts: 2 "forks", 2 "locks", and a piece of elastic.
+
+Production of the first 4 parts is generally done with rapid prototyping (FDM, SLA), but other methods are possible. PLA is plenty strong for this.
+
+The parts are designed for 9.5mm/0.375in wide elastic webbing approximately 1mm (0.04in) thick. Webbing that does not narrow when stretched is preferred, but is not necessary. If you need some suggestions:
+- Dritz 9531W
+- Dritz 9531B
